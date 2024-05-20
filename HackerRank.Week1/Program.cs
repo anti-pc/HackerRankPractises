@@ -1,7 +1,16 @@
 ﻿using HackerRank.Week1;
 
+
+// PlusMinus
 int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
+List<int> arrPlusMinus = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
 
-PlusMinus.plusMinus(arr);
+PlusMinus.plusMinus(arrPlusMinus);
+
+
+
+// MiniMaxSum
+List<int> arrMiniMaxSum = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
+
+MiniMaxSum.miniMaxSum(arrMiniMaxSum);
