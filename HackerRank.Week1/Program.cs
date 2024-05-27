@@ -1,5 +1,17 @@
 ﻿using HackerRank.Week1;
+using System.Collections.Generic;
 
+
+// SparseArrays
+
+List<string> strings = Console.ReadLine().TrimEnd().Split(' ').ToList();
+List<string> queries = Console.ReadLine().TrimEnd().Split(' ').ToList();
+
+
+List<int> result = SparseArrays.matchingStrings(strings, queries);
+
+result.ForEach(i => Console.Write("{0}\t", i));
+/*
 
 //TimeConversion
 
@@ -9,7 +21,7 @@ string result = TimeConversion.timeConversion(s);
 
 Console.WriteLine(result);
 
-/*
+
 
 // MiniMaxSum
 List<int> arrMiniMaxSum = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
