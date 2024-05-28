@@ -1,12 +1,20 @@
 ﻿using HackerRank.Week1;
 using System.Collections.Generic;
 
+
+// FlippingBits
+
+long n = Convert.ToInt64(Console.ReadLine().Trim());
+Console.WriteLine(FlippingBits.flippingBits(n));
+
+/*
+
 // LonelyInteger
 
 List<int> a = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(aTemp => Convert.ToInt32(aTemp)).ToList();
 Console.WriteLine(LonelyInteger.lonelyinteger(a));
 
-/*
+
 
 // SparseArrays
 
