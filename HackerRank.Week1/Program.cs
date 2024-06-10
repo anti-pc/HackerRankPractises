@@ -2,12 +2,25 @@
 using System.Collections.Generic;
 
 
+// DiagonalDifference
+
+List<List<int>> matrix = new List<List<int>>
+{
+    new List<int> { 11, 2, 4 },
+    new List<int> { 4, 5, 6 },
+    new List<int> { 10, 8, -12 }
+};
+
+int result = DiagonalDifference.diagonalDifference(matrix);
+Console.WriteLine("Absolute diagonal difference: " + result);
+
+/*
+
 // FlippingBits
 
 long n = Convert.ToInt64(Console.ReadLine().Trim());
 Console.WriteLine(FlippingBits.flippingBits(n));
 
-/*
 
 // LonelyInteger
 
