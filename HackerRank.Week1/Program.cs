@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 
 
+// Pangram
+
+Console.WriteLine(Pangrams.pangrams("We promptly judged antique ivory buckles for the next prize"));
+Console.WriteLine(Pangrams.pangrams("We promptly judged antique ivory buckles for the prize"));
+
+/*
+
 // CountingSort
 //List<int> numbers = new List<int>
 //{
@@ -20,7 +27,7 @@ foreach (int number in result)
     Console.Write(number + " ");
 }
 
-/*
+
 // DiagonalDifference
 
 List<List<int>> matrix = new List<List<int>>
