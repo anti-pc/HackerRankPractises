@@ -1,5 +1,24 @@
 ﻿using HackerRank.Week1;
 using System.Collections.Generic;
+using System.Threading.Channels;
+
+
+// SubarrayDivision1
+
+Console.WriteLine(SubarrayDivision1.birthday(new List<int> { 2, 2, 1, 3, 2 }, 4, 2));
+
+/*
+// PermutingTwoArrays
+
+Console.WriteLine(PermutingTwoArrays.twoArrays(5, new List<int>() { 1, 2, 2, 1 }, new List<int>() { 3, 3, 3, 4 }));
+
+
+
+// Pangram
+
+Console.WriteLine(Pangrams.pangrams("We promptly judged antique ivory buckles for the next prize"));
+Console.WriteLine(Pangrams.pangrams("We promptly judged antique ivory buckles for the prize"));
+
 
 
 // CountingSort
@@ -20,7 +39,7 @@ foreach (int number in result)
     Console.Write(number + " ");
 }
 
-/*
+
 // DiagonalDifference
 
 List<List<int>> matrix = new List<List<int>>
