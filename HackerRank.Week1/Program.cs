@@ -2,12 +2,19 @@
 using System.Collections.Generic;
 
 
+// PermutingTwoArrays
+
+Console.WriteLine(PermutingTwoArrays.twoArrays(5, new List<int>() { 1, 2, 2, 1 }, new List<int>() { 3, 3, 3, 4 }));
+
+
+/*
+
 // Pangram
 
 Console.WriteLine(Pangrams.pangrams("We promptly judged antique ivory buckles for the next prize"));
 Console.WriteLine(Pangrams.pangrams("We promptly judged antique ivory buckles for the prize"));
 
-/*
+
 
 // CountingSort
 //List<int> numbers = new List<int>
