@@ -15,3 +15,8 @@ Each challenge is implemented in a separate `.cs` file. Below is a brief descrip
 ### 3. **Lonely Integer** (`LonelyInteger.cs`)
    - Finds the unique integer in an array where all other elements appear twice.
 
+### 4. **Mini-Max Sum** (`MiniMaxSum.cs`)
+   - Given an array of five integers, finds the minimum and maximum sum of four out of the five numbers.
+
+### 5. **Pangrams** (`Pangrams.cs`)
+   - Determines whether a given string contains every letter of the English alphabet at least once.
