@@ -20,3 +20,9 @@ Each challenge is implemented in a separate `.cs` file. Below is a brief descrip
 
 ### 5. **Pangrams** (`Pangrams.cs`)
    - Determines whether a given string contains every letter of the English alphabet at least once.
+     
+### 6. **Permuting Two Arrays** (`PermutingTwoArrays.cs`)
+   - Given two arrays and an integer `k`, checks whether they can be rearranged such that the sum of corresponding elements in both arrays is at least `k`.
+
+### 7. **Plus Minus** (`PlusMinus.cs`)
+   - Calculates and prints the proportions of positive, negative, and zero elements in an array.
