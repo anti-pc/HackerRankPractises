@@ -26,3 +26,9 @@ Each challenge is implemented in a separate `.cs` file. Below is a brief descrip
 
 ### 7. **Plus Minus** (`PlusMinus.cs`)
    - Calculates and prints the proportions of positive, negative, and zero elements in an array.
+     
+### 8. **Sparse Arrays** (`SparseArrays.cs`)
+   - Implements a frequency query system where the number of occurrences of given queries in an array is returned.
+
+### 9. **Subarray Division** (`SubarrayDivision1.cs`)
+   - Determines the number of contiguous subarrays of a given length that sum up to a target value.
