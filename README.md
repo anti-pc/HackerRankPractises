@@ -32,3 +32,6 @@ Each challenge is implemented in a separate `.cs` file. Below is a brief descrip
 
 ### 9. **Subarray Division** (`SubarrayDivision1.cs`)
    - Determines the number of contiguous subarrays of a given length that sum up to a target value.
+     
+### 10. **Time Conversion** (`TimeConversion.cs`)
+   - Converts a 12-hour AM/PM time format into a 24-hour format.
