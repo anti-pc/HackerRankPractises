@@ -35,3 +35,21 @@ Each challenge is implemented in a separate `.cs` file. Below is a brief descrip
      
 ### 10. **Time Conversion** (`TimeConversion.cs`)
    - Converts a 12-hour AM/PM time format into a 24-hour format.
+
+- ## Project Structure
+
+```
+HackerRank.Week1/
+│── DiagonalDifference.cs
+│── FlippingBits.cs
+│── LonelyInteger.cs
+│── MiniMaxSum.cs
+│── Pangrams.cs
+│── PermutingTwoArrays.cs
+│── PlusMinus.cs
+│── SparseArrays.cs
+│── SubarrayDivision1.cs
+│── TimeConversion.cs
+│── Program.cs (Main execution file)
+│── HackerRank.Week1.csproj (C# Project Configuration)
+```
