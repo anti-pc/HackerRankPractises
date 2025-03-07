@@ -53,3 +53,9 @@ HackerRank.Week1/
 │── Program.cs (Main execution file)
 │── HackerRank.Week1.csproj (C# Project Configuration)
 ```
+
+## How to Run
+
+### Prerequisites
+- .NET SDK installed ([Download here](https://dotnet.microsoft.com/en-us/download))
+- A C# compiler
