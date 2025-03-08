@@ -59,3 +59,9 @@ HackerRank.Week1/
 ### Prerequisites
 - .NET SDK installed ([Download here](https://dotnet.microsoft.com/en-us/download))
 - A C# compiler
+### Steps
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/anti-pc/HackerRankPractises.git
+   cd HackerRankPractises/HackerRank.Week1
+   ```
