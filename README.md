@@ -65,3 +65,7 @@ HackerRank.Week1/
    git clone https://github.com/anti-pc/HackerRankPractises.git
    cd HackerRankPractises/HackerRank.Week1
    ```
+2. Build and run the project:
+   ```sh
+   dotnet run
+   ```
