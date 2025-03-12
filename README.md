@@ -69,3 +69,5 @@ HackerRank.Week1/
    ```sh
    dotnet run
    ```
+## Contributions
+Feel free to contribute by improving the solutions, adding optimizations, or fixing bugs. Fork the repo, make your changes, and submit a pull request!
