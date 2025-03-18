@@ -71,3 +71,6 @@ HackerRank.Week1/
    ```
 ## Contributions
 Feel free to contribute by improving the solutions, adding optimizations, or fixing bugs. Fork the repo, make your changes, and submit a pull request!
+
+## License
+This project is open-source and available under the MIT License.
