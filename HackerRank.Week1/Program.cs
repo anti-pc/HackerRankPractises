@@ -2,12 +2,34 @@
 using System.Collections.Generic;
 using System.Threading.Channels;
 
+Console.WriteLine("Result: ");
+
+FindMedian.Result(new List<int> { 1, 3, 4, 5, 2 });
+
+/*
+
+//FlippingMatrix
+
+List<List<int>> matrix = new List<List<int>>
+{
+    new List<int> {112, 42, 83, 119},
+    new List<int> {56, 125, 56, 49},
+    new List<int> {15, 78, 101, 43},
+    new List<int> {62, 98, 114, 108}
+};
+
+FlippingMatrix.Result(matrix);
+
+
+// FindMedian
+
+FindMedian.Main(new[] { "1", "5", "4", "3", "2" });
 
 // SubarrayDivision1
 
 Console.WriteLine(SubarrayDivision1.birthday(new List<int> { 2, 2, 1, 3, 2 }, 4, 2));
 
-/*
+
 // PermutingTwoArrays
 
 Console.WriteLine(PermutingTwoArrays.twoArrays(5, new List<int>() { 1, 2, 2, 1 }, new List<int>() { 3, 3, 3, 4 }));
