@@ -50,6 +50,7 @@ HackerRank.Week1/
 │── SparseArrays.cs
 │── SubarrayDivision1.cs
 │── TimeConversion.cs
+│── FlippingMatrix.cs
 │── Program.cs (Main execution file)
 │── HackerRank.Week1.csproj (C# Project Configuration)
 ```
