@@ -51,6 +51,7 @@ HackerRank.Week1/
 │── SubarrayDivision1.cs
 │── TimeConversion.cs
 │── FlippingMatrix.cs
+│── FindMedian.cs
 │── Program.cs (Main execution file)
 │── HackerRank.Week1.csproj (C# Project Configuration)
 ```
