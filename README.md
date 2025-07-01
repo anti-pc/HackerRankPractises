@@ -36,6 +36,10 @@ Each challenge is implemented in a separate `.cs` file. Below is a brief descrip
 ### 10. **Time Conversion** (`TimeConversion.cs`)
    - Converts a 12-hour AM/PM time format into a 24-hour format.
 
+### 11. **Flipping Matrix** (`TimeConversion.cs`)
+   -  The goal of the game is to maximize the sum of the elements in the **n x n** submatrix located in the upper-left quadrant of the matrix.
+
+
 - ## Project Structure
 
 ```
